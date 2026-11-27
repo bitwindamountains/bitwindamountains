@@ -1,8 +1,8 @@
 # Hi, I'm Niño Clint Antiquina
 
-Junior full-stack developer in Cebu, Philippines, and a 2026 BS IT graduate. During my internship at Xpertis Solutions I was the sole backend developer on a 120-endpoint REST API. I build practical apps for Philippine businesses, working in TypeScript, Python and SQL with a focus on API design and data integrity.
+Junior full-stack developer in Cebu, Philippines, and a 2026 BS IT graduate. I interned at Xpertis Solutions as a backend developer, and I build web apps in TypeScript and Python.
 
-## Featured projects
+## Projects
 
 | Project | What it does | Built with | Links |
 | --- | --- | --- | --- |
