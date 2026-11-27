@@ -1,9 +1,14 @@
-# Hi, I'm Clint
+# Hi, I'm Niño Clint 👋
 
-Junior full-stack developer in Cebu. I build small tools I use myself, and apps for everyday problems around me.
+I'm a junior developer based in Cebu, Philippines. I build tools I use myself and apps that solve everyday problems around me.
 
-- Tests with every project
-- Live demos where I can host them
-- Honest READMEs, including what's unfinished
+### What you'll find here
 
-Now building my portfolio site with Astro.
+- **Practical projects** built around real needs and personal curiosity
+- **Built with care** — security, performance, maintainable code, and tests for core functionality
+- **Live demos** whenever I can host them
+- **Honest READMEs** covering what works, what's unfinished, and what's next
+
+I'm learning by building, improving what I can, and sharing the process.
+
+*Small projects. Real problems. Steady progress.*
